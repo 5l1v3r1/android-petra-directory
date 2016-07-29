@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/justin/AndroidStudioProjects/myJSONfeeder/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/justin/AndroidStudioProjects/myJSONfeeder/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_590e51de4e402a9df94895762d12bde21687c40f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/justin/AndroidStudioProjects/myJSONfeeder/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2a202d93db1d7404c95bbb9bc27b4ee385b125bc">
+        <dex dex="/Users/justin/AndroidStudioProjects/myJSONfeeder/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dc958d055085cee3c8b4339c11ff05a169d58c27/classes.dex" />
+    </item>
+    <item
+        jar="/Users/justin/AndroidStudioProjects/myJSONfeeder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/justin/AndroidStudioProjects/myJSONfeeder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_d5cff63cbb58d4cf5b372eec224608295cf1b642/classes.dex" />
+    </item>
+    <item
+        jar="/Users/justin/AndroidStudioProjects/myJSONfeeder/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/justin/AndroidStudioProjects/myJSONfeeder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_a318c67fda60d6a14db0566d5f040b933f218cfe/classes.dex" />
+    </item>
+    <item
+        jar="/Users/justin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/justin/AndroidStudioProjects/myJSONfeeder/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_ecec8265f67ea013078c00209e5231bed38ecd13/classes.dex" />
+    </item>
+    <item
+        jar="/Users/justin/AndroidStudioProjects/myJSONfeeder/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/justin/AndroidStudioProjects/myJSONfeeder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_ee55cf38281bee455fbe3adf893b2d7e80ad7fdf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/justin/AndroidStudioProjects/myJSONfeeder/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/justin/AndroidStudioProjects/myJSONfeeder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_a3984ea0f2570d1a41c1a0d1e6e392499569b3f8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/justin/AndroidStudioProjects/myJSONfeeder/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e2fe6831c86767f3ddecd846a11f181baa820661">
+        <dex dex="/Users/justin/AndroidStudioProjects/myJSONfeeder/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_edc238e176edfcc8983ccd86a850cfeee2cc9962/classes.dex" />
+    </item>
+
+</items>
